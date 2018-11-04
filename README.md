@@ -6,6 +6,6 @@ Ofcourse, 2.67MHz is not for eye balls, need oscilloscope or frequency counter, 
 
 This is really AVR ATmega328P and 16MHz Xtal thus ultimate performance, because used Arduino IDE for the test, it is therefore open source, but it is really GCC code and snippet.  
 
-output pin,
-In csae bare MCU, pin 15, PB1 / OC1A
-In case Ardunio Uno/Nano, D9
+output pin,  
+In csae bare MCU, pin 15, PB1 / OC1A  
+In case Ardunio Uno/Nano, D9  
