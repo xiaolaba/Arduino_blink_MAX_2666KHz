@@ -10,5 +10,9 @@ output pin,
 In csae bare MCU, pin 15, PB1 / OC1A  
 In case Ardunio Uno/Nano, D9  
 
+ .  
+ .  
+ 
+
 
 ![/8MHz/AVR_1MHZ_clock.JPG](/8MHz/AVR_1MHZ_clock.JPG)
