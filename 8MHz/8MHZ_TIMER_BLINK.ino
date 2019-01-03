@@ -17,7 +17,14 @@ const int freqOutputPin = 9;   // OC1A output pin for ATmega32u4 (Arduino Micro)
 const int ocr1aval  = 1; // 4MHZ
 //const int ocr1aval  = 2; // 2.67MHZ
 //const int ocr1aval  = 3; //2.0MHZ
-//const int ocr1aval  = 4; //1.6MHZ
+//const int ocr1aval  = 4; //1.6MHZ  
+//const int ocr1aval  = 5; // 1.333MHZ
+//const int ocr1aval  = 6; //1.143MHZ
+//const int ocr1aval  = 7; //1.000MHZ  
+//const int ocr1aval  = 8; // 889KHZ
+//const int ocr1aval  = 9; //800KHZ
+//const int ocr1aval  = 10; //727KHZ  
+//const int ocr1aval  = 10; //667KHZ  
 
 
 void setup()
