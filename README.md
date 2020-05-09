@@ -52,13 +52,13 @@ output, looks good
 .  
 .  
 1ms/div, 5V/div, D9 output 1KHz, to confirm single source 
-![xiaolaba_1KHz_5Vpp_CS4025_oscope_test1.jpg](xiaolaba_1KHz_5Vpp_CS4025_oscope_test1.jpg)
+![/1KHz/xiaolaba_1KHz_5Vpp_CS4025_oscope_test1.jpg](/1KHz/xiaolaba_1KHz_5Vpp_CS4025_oscope_test1.jpg)
 .  
 .
 xiaolaba_1KHz_5Vpp_HTC8088_oscope, testing
-![xiaolaba_1KHz_5Vpp_HTC8088_oscope.jpg](xiaolaba_1KHz_5Vpp_HTC8088_oscope.jpg)
+![/1KHz/xiaolaba_1KHz_5Vpp_HTC8088_oscope.jpg](/1KHz/xiaolaba_1KHz_5Vpp_HTC8088_oscope.jpg)
 .  
 .  
 xiaolaba_1KHz_5Vpp_Samsung_GTS5660_oscope, testing
-![xiaolaba_1KHz_5Vpp_Samsung_GTS5660_oscope.jpg](xiaolaba_1KHz_5Vpp_Samsung_GTS5660_oscope.jpg)
+![/1KHz/xiaolaba_1KHz_5Vpp_Samsung_GTS5660_oscope.jpg](/1KHz/xiaolaba_1KHz_5Vpp_Samsung_GTS5660_oscope.jpg)
 
