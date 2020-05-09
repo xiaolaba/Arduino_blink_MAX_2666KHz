@@ -33,8 +33,23 @@ ocr1aval = 8 / 1Khz / 1000 = 8000 or 7999 +1
   
   
     
-### 1Khz signal generator, testing, and Android phone oscilliscope  
+### 1Khz signal generator, testing, and Android phone oscilloscope  
 Mic input of old cell phone, act as signal input but DC biased and block DC path, sqaure wave signal became filter and distored, but it works for seeing oscillation or no signal present, easy and handful tool for hobby & DIY project at some time, audio frequency range and Guitar tunning at low range of frequency, it is so handly when compared with desktop scope in contrast.
 
-
+.
+.
+output, looks good  
 ![/1KHz/xiaolaba_1KHz_5Vpp_CS4025_oscope_test.jpg](/1KHz/xiaolaba_1KHz_5Vpp_CS4025_oscope_test.jpg)
+.  
+.  
+1ms/div, 5V/div, D9 output 1KHz, to confirm single source 
+![xiaolaba_1KHz_5Vpp_CS4025_oscope_test1.jpg](xiaolaba_1KHz_5Vpp_CS4025_oscope_test1.jpg)
+.  
+.
+xiaolaba_1KHz_5Vpp_HTC8088_oscope, testing
+![xiaolaba_1KHz_5Vpp_HTC8088_oscope.jpg](xiaolaba_1KHz_5Vpp_HTC8088_oscope.jpg)
+.  
+.  
+xiaolaba_1KHz_5Vpp_Samsung_GTS5660_oscope, testing
+![xiaolaba_1KHz_5Vpp_Samsung_GTS5660_oscope.jpg](xiaolaba_1KHz_5Vpp_Samsung_GTS5660_oscope.jpg)
+
