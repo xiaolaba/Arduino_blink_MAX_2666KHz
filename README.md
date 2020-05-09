@@ -18,8 +18,12 @@ In case Ardunio Uno/Nano, D9
 ![/8MHz/AVR_1MHZ_clock.JPG](/8MHz/AVR_1MHZ_clock.JPG)  
 
 
-
+  
+  
+  
+  
 ### 1Khz square wave signal generator, Vpp = 5V  
+2020-MAY-09  
 To correct the formula, output frequency calculation, should be,   
 16MHz / 2 / ocr1aval = 8MHz / ocr1aval, unit is in MHz,  
 ocr1aval is ocr1a_value, 16 bit int  
