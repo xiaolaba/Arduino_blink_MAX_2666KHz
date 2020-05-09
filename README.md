@@ -19,9 +19,17 @@ In case Ardunio Uno/Nano, D9
 
 
 
-### 1Khz signal generator
-correct formula, it shoud be 16MHz / 2 / ocr1aval = 8MHz / ocr1a_value = output frequency (MHz)
-ocr1a_value is 16 bit int
-so the 1Khz=0.001Mhz, ocr1a_value = 8 / 0.001Mhz = 8000 or 7999 +1
+### 1Khz square wave signal generator, Vpp = 5V  
+To correct the formula, output frequency calculation, should be,   
+16MHz / 2 / ocr1aval = 8MHz / ocr1aval, unit is in MHz,  
+ocr1aval is ocr1a_value, 16 bit int  
+re-arrange the formula to find ocr1a_value,  
+ocr1aval = 8 / output frequency (in MHz), 1KHz/1000 = 0.001Mhz  
+ocr1aval = 8 / 1Khz / 1000 = 8000 or 7999 +1  
+  
+  
+    
+### 1Khz signal generator, testing, and Android phone oscilliscope  
+Mic input of old cell phone, act as signal input but DC biased and block DC path, sqaure wave signal became filter and distored, but it works for seeing oscillation or no signal present, easy and handful tool for hobby & DIY project at some time, audio frequency range and Guitar tunning at low range of frequency, it is so handly when compared with desktop scope in contrast.
 
 
