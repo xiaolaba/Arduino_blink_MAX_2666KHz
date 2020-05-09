@@ -15,4 +15,13 @@ In case Ardunio Uno/Nano, D9
  
 
 
-![/8MHz/AVR_1MHZ_clock.JPG](/8MHz/AVR_1MHZ_clock.JPG)
+![/8MHz/AVR_1MHZ_clock.JPG](/8MHz/AVR_1MHZ_clock.JPG)  
+
+
+
+### 1Khz signal generator
+correct formula, it shoud be 16MHz / 2 / ocr1aval = 8MHz / ocr1a_value = output frequency (MHz)
+ocr1a_value is 16 bit int
+so the 1Khz=0.001Mhz, ocr1a_value = 8 / 0.001Mhz = 8000 or 7999 +1
+
+
