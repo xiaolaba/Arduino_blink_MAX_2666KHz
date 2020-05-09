@@ -30,6 +30,15 @@ ocr1aval is ocr1a_value, 16 bit int
 re-arrange the formula to find ocr1a_value,  
 ocr1aval = 8 / output frequency (in MHz), 1KHz/1000 = 0.001Mhz  
 ocr1aval = 8 / 1Khz / 1000 = 8000 or 7999 +1  
+
+source code and thus,
+```
+//const int ocr1aval  = 255; // 31.25KHz  // 2020-MAY-09, test done
+//const int ocr1aval  = 511; // 15.625KHz // 2020-MAY-09, test done
+//const int ocr1aval  = 1023;  // 7.8125KHz // 2020-MAY-09, test done
+const int ocr1aval  = 7999;  // 1KHz // 2020-MAY-09, test done
+
+```
   
   
     
