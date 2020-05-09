@@ -17,12 +17,12 @@ In case Ardunio Uno/Nano, D9
 
 ![/8MHz/AVR_1MHZ_clock.JPG](/8MHz/AVR_1MHZ_clock.JPG)  
 
-
+.
+. 
+.  
+.  
   
-  
-  
-  
-### 1Khz square wave signal generator, Vpp = 5V  
+### 1Khz square wave signal generator, 5Vpp  
 2020-MAY-09  
 To correct the formula, output frequency calculation, should be,   
 16MHz / 2 / ocr1aval = 8MHz / ocr1aval, unit is in MHz,  
@@ -37,3 +37,4 @@ ocr1aval = 8 / 1Khz / 1000 = 8000 or 7999 +1
 Mic input of old cell phone, act as signal input but DC biased and block DC path, sqaure wave signal became filter and distored, but it works for seeing oscillation or no signal present, easy and handful tool for hobby & DIY project at some time, audio frequency range and Guitar tunning at low range of frequency, it is so handly when compared with desktop scope in contrast.
 
 
+![/1KHz/xiaolaba_1KHz_5Vpp_CS4025_oscope_test.jpg](/1KHz/xiaolaba_1KHz_5Vpp_CS4025_oscope_test.jpg)
